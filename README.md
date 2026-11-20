@@ -182,7 +182,7 @@ like this one, the work looks like this:
    page specifies: the bounty badge, and your repository's own rank and
    reward badges, each linking to a page on make.fun. They are at the top
    of this guide — copy the pattern, with your own owner and repository
-   names filled in, never the `{owner}` / `{repo}` placeholders.
+   names filled in, never the template placeholders.
 4. Add a `LICENSE` file with an OSI-approved license, such as MIT.
 5. Once the repository is public on GitHub, take a screenshot of its page
    with the README showing and save it as `screenshot.png` at the
